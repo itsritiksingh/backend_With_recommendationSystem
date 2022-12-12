@@ -8,6 +8,6 @@ intervals to fine tune recommendation for each products
    * Recreate in graphql (pending)
 2. Create a script to add data to DB at regular intervals (pending)
 3. Using Apache airflow create a workflow in following manner:
-    -> fetch data from DB and clean data(pending)
-    -> run recommendation system on data(pending)
-    -> update DB(pending)
+    - fetch data from DB and clean data(pending)
+    - run recommendation system on data(pending)
+    - update DB(pending)
